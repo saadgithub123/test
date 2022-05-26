@@ -29,7 +29,6 @@ spec:
       recursive: true
     action: Audit
   process:
-    severity: 10
     matchPaths:
     - path: /usr/bin/mysqldump
     action: Block 
