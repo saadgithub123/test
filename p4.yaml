@@ -25,5 +25,3 @@ spec:
         - path: /usr/bin/nano
         - path: /usr/bin/cat
         - path: /usr/bin/vi
-    action: Block
-    
