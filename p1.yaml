@@ -31,4 +31,3 @@ spec:
         protocol: "TCP"
   ingress:
   - fromEntities:
-    - "all"
