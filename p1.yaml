@@ -30,5 +30,3 @@ spec:
       - port: "8008"
         protocol: "TCP"
   ingress:
-  - fromEntities:
-    - "all"
